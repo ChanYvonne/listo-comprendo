@@ -1,0 +1,14 @@
+def union(A, B):
+    return
+
+def intersection(A, B):
+    return
+
+def setDiff(U, A):
+    return
+
+def symmDiff(A, B):
+    return
+
+def cartProduct(A, B):
+    return
